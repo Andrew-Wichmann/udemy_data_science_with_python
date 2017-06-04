@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-"""Read 911 hotline information display graphs exploring the reasoning behind calls"""
+"""
+From Jose Portilla's Udemy course (https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview)
+Read 911 hotline information display graphs exploring the reasoning behind calls
+"""
 #BEGIN IMPORTS
 
 import numpy as np
