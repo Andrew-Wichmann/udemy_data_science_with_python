@@ -1,4 +1,7 @@
-"""Read in market data and display graphes to explore the 2008 financial crash"""
+"""
+From Jose Portilla's Udemy course (https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview)
+Read in market data and display graphes to explore the 2008 financial crash
+"""
 #BEGIN IMPORTS
 from pandas_datareader import data, wb
 import pandas as pd
